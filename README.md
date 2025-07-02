@@ -4,68 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Weather Forecast App - README</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background: #f4f6f9;
-      color: #2c3e50;
-      line-height: 1.6;
-      padding: 40px;
-      max-width: 800px;
-      margin: auto;
-    }
-
-    h1, h2, h3 {
-      color: #34495e;
-    }
-
-    code {
-      background-color: #ecf0f1;
-      padding: 2px 6px;
-      border-radius: 4px;
-      font-size: 15px;
-    }
-
-    pre {
-      background: #ecf0f1;
-      padding: 15px;
-      border-radius: 6px;
-      overflow-x: auto;
-    }
-
-    a {
-      color: #3498db;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    ul {
-      padding-left: 20px;
-    }
-
-    .screenshot {
-      margin: 20px 0;
-      text-align: center;
-    }
-
-    .screenshot img {
-      max-width: 100%;
-      border-radius: 8px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    }
-
-    .badge {
-      background: #3498db;
-      color: white;
-      padding: 2px 6px;
-      font-size: 12px;
-      border-radius: 4px;
-      margin-left: 5px;
-    }
-  </style>
+ 
 </head>
 <body>
 
