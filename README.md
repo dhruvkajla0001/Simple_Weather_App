@@ -71,7 +71,7 @@
 
   <h2>👤 Author</h2>
   <p><strong>Dhruv Kajla</strong><br>
-  📧 Email: <a href="mailto:shail020604@gmail.com">shail020604@gmail.com</a></p>
+  📧 Email: <a href="mailto:dhruvkajla@gmail.com">Dhruv Kajla</a></p>
 
 </body>
 </html>
